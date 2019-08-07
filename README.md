@@ -4,7 +4,9 @@ How to Start :
 
 
 you need to have expo-cli installed on your device ,otherwise you need to install it .
+
 ![](fetchdata.gif)
+
 
 npm i /// to install all the (Modules) dependencies required and stored in package-json
 
